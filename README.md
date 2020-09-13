@@ -1,5 +1,5 @@
 # Los-Santos-Summer-Special-Cars-FiveM
-Please do not re-upload this or claim as your own. That will make me really sad
+Please do not re-upload this or claim as your own. That will make me really sad                                                                                                     
 This adds cars from the Los Santos Summer Special GTA Online update to FiveM. The cars have full customization, though first person does not currently work.
 
 I recommend installing Diamond Casino Heist Vehicles and Diamond Casino and Resort Vehicles.
